@@ -46,9 +46,6 @@
         <mxCell id="cROohg-AydkKlxz-89z_-13" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="cROohg-AydkKlxz-89z_-17">
           <mxGeometry x="30" y="30" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cROohg-AydkKlxz-89z_-20" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="280" width="120" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
