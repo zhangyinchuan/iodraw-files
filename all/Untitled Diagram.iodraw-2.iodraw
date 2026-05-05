@@ -329,7 +329,7 @@
             <mxRectangle width="37" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cROohg-AydkKlxz-89z_-274" value="" style="connectable=0;recursiveResize=0;strokeColor=#2D7600;fillColor=#60a917;align=center;whiteSpace=wrap;html=1;strokeWidth=3;fontColor=#ffffff;" vertex="1" parent="cROohg-AydkKlxz-89z_-271">
+        <mxCell id="cROohg-AydkKlxz-89z_-274" value="" style="connectable=0;recursiveResize=0;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="cROohg-AydkKlxz-89z_-271">
           <mxGeometry x="70" width="30" height="34" as="geometry">
             <mxRectangle width="30" height="34" as="alternateBounds" />
           </mxGeometry>
