@@ -17,7 +17,7 @@
           <mxGeometry x="20" y="20" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cROohg-AydkKlxz-89z_-16" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="324" y="100" width="90" height="140" as="geometry" />
+          <mxGeometry x="310" y="100" width="90" height="140" as="geometry" />
         </mxCell>
         <mxCell id="cROohg-AydkKlxz-89z_-1" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="cROohg-AydkKlxz-89z_-16">
           <mxGeometry x="60" width="30" height="110" as="geometry" />
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="cROohg-AydkKlxz-89z_-13" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="cROohg-AydkKlxz-89z_-17">
           <mxGeometry x="30" y="30" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cROohg-AydkKlxz-89z_-20" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="280" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
