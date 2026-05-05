@@ -49,6 +49,9 @@
         <mxCell id="cROohg-AydkKlxz-89z_-21" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=18;" vertex="1" parent="1">
           <mxGeometry x="520" y="120" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="cROohg-AydkKlxz-89z_-22" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=18;" vertex="1" parent="1">
+          <mxGeometry x="530" y="130" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
