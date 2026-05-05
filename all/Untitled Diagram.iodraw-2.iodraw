@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mmwu_iY9KdckxIWrDaf--31" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="50" width="80" height="80" as="geometry" />
+          <mxGeometry x="440" y="40" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
