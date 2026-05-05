@@ -62,7 +62,7 @@
           <mxGeometry width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cROohg-AydkKlxz-89z_-27" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="510" y="80" width="40" height="100" as="geometry" />
+          <mxGeometry x="480" y="80" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cROohg-AydkKlxz-89z_-28" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=18;" vertex="1" parent="cROohg-AydkKlxz-89z_-27">
           <mxGeometry y="60" width="40" height="40" as="geometry" />
