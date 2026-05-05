@@ -46,8 +46,8 @@
         <mxCell id="cROohg-AydkKlxz-89z_-13" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="cROohg-AydkKlxz-89z_-17">
           <mxGeometry x="30" y="30" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cROohg-AydkKlxz-89z_-21" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="540" y="125" width="50" height="55" as="geometry" />
+        <mxCell id="cROohg-AydkKlxz-89z_-21" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=18;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
