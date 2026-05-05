@@ -182,7 +182,7 @@
         <mxCell id="mmwu_iY9KdckxIWrDaf--74" value="Backbone" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="215" y="130" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mmwu_iY9KdckxIWrDaf--76" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mmwu_iY9KdckxIWrDaf--76" value="FPN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="565" y="130" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
