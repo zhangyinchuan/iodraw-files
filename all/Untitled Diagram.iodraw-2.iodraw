@@ -421,8 +421,11 @@
         <mxCell id="cROohg-AydkKlxz-89z_-297" value="C*H*W" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="445" y="100" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cROohg-AydkKlxz-89z_-298" value="C*H*1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="cROohg-AydkKlxz-89z_-298" value="C*H*1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="280" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cROohg-AydkKlxz-89z_-299" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="225" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
