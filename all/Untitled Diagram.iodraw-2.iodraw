@@ -10,7 +10,7 @@
         <mxCell id="HeoAzXEDUWCKbiEnucYd-2" value="Split" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="120" y="130" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HeoAzXEDUWCKbiEnucYd-3" value="No action" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="HeoAzXEDUWCKbiEnucYd-3" value="No action" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="120" y="190" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HeoAzXEDUWCKbiEnucYd-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Bottleneck&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#000000;strokeColor=#2D7600;" vertex="1" parent="1">
