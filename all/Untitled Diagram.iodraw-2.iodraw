@@ -370,6 +370,12 @@
             <mxRectangle width="30" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cROohg-AydkKlxz-89z_-284" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cROohg-AydkKlxz-89z_-134">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="200" as="sourcePoint" />
+            <mxPoint x="580" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
