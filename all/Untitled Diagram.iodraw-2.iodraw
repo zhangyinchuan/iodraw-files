@@ -430,9 +430,9 @@
         <mxCell id="cROohg-AydkKlxz-89z_-300" value="C*H*W" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="450" y="540" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cROohg-AydkKlxz-89z_-301" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="cROohg-AydkKlxz-89z_-301" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.6;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="cROohg-AydkKlxz-89z_-48">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="60" as="sourcePoint" />
+            <mxPoint x="370" y="20" as="sourcePoint" />
             <mxPoint x="350" y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
