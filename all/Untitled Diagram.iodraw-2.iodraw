@@ -23,10 +23,10 @@
           <mxGeometry x="360" y="130" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="cROohg-AydkKlxz-89z_-8" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="320" y="50" width="30" height="110" as="geometry" />
+          <mxGeometry x="240" y="80" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="cROohg-AydkKlxz-89z_-9" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="320" y="150" width="30" height="110" as="geometry" />
+          <mxGeometry x="260" y="90" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="cROohg-AydkKlxz-89z_-10" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="1">
           <mxGeometry x="320" y="350" width="40" height="40" as="geometry" />
