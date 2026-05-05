@@ -185,10 +185,10 @@
         <mxCell id="mmwu_iY9KdckxIWrDaf--76" value="FPN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="551" y="130" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mmwu_iY9KdckxIWrDaf--77" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=130;entryDy=45;entryPerimeter=0;" edge="1" parent="1" target="mmwu_iY9KdckxIWrDaf--5">
+        <mxCell id="mmwu_iY9KdckxIWrDaf--77" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="630" as="sourcePoint" />
-            <mxPoint x="440" y="580" as="targetPoint" />
+            <mxPoint x="390" y="550" as="sourcePoint" />
+            <mxPoint x="300" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
