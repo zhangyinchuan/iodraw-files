@@ -185,7 +185,7 @@
           <mxGeometry x="150" y="200" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cROohg-AydkKlxz-89z_-144" value="Conv" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;" vertex="1" parent="cROohg-AydkKlxz-89z_-304">
-          <mxGeometry x="150" y="360" width="90" height="40" as="geometry" />
+          <mxGeometry x="150" y="360" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cROohg-AydkKlxz-89z_-147" value="Concat+Conv" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;" vertex="1" parent="cROohg-AydkKlxz-89z_-304">
           <mxGeometry x="150" y="250" width="210" height="40" as="geometry" />
