@@ -182,7 +182,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cROohg-AydkKlxz-89z_-140" value="GAP+GMP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#000000;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="445" y="210" width="166" height="40" as="geometry" />
+          <mxGeometry x="445" y="210" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cROohg-AydkKlxz-89z_-147" value="Conv+ReLU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="445" y="265" width="166" height="40" as="geometry" />
@@ -383,7 +383,7 @@
           <mxGeometry x="445" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cROohg-AydkKlxz-89z_-299" value="C*1*1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="600" y="215" width="60" height="30" as="geometry" />
+          <mxGeometry x="610" y="215" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cROohg-AydkKlxz-89z_-300" value="C*H*W" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="240" y="425" width="60" height="30" as="geometry" />
