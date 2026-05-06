@@ -422,6 +422,9 @@
         <mxCell id="cROohg-AydkKlxz-89z_-302" value="Input" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="cROohg-AydkKlxz-89z_-304">
           <mxGeometry x="84" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="cROohg-AydkKlxz-89z_-322" value="C*1*1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="cROohg-AydkKlxz-89z_-304">
+          <mxGeometry x="380" y="365" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="cROohg-AydkKlxz-89z_-303" value="Output" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="354" y="640" width="60" height="30" as="geometry" />
         </mxCell>
