@@ -207,7 +207,7 @@
           <mxGeometry x="150" y="300" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cROohg-AydkKlxz-89z_-243" value="" style="group" vertex="1" connectable="0" parent="cROohg-AydkKlxz-89z_-304">
-          <mxGeometry x="30" y="470" width="120" height="120" as="geometry" />
+          <mxGeometry x="30" y="450" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cROohg-AydkKlxz-89z_-244" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=#f8cecc;strokeWidth=3;strokeColor=#b85450;" vertex="1" parent="cROohg-AydkKlxz-89z_-243">
           <mxGeometry width="100" height="100" as="geometry" />
