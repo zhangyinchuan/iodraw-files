@@ -7,9 +7,6 @@
         <mxCell id="cROohg-AydkKlxz-89z_-303" value="Output" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="354" y="640" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cROohg-AydkKlxz-89z_-321" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.383;entryY=-0.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cROohg-AydkKlxz-89z_-279" target="cROohg-AydkKlxz-89z_-303">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="cROohg-AydkKlxz-89z_-138" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="310" y="70" width="120" height="120" as="geometry" />
         </mxCell>
@@ -392,7 +389,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cROohg-AydkKlxz-89z_-296" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;Sigmoid&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="410" y="448" width="80" height="30" as="geometry" />
+          <mxGeometry x="445" y="425" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cROohg-AydkKlxz-89z_-297" value="C*H*W" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="445" y="110" width="60" height="30" as="geometry" />
