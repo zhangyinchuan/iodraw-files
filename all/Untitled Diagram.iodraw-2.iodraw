@@ -187,7 +187,7 @@
         <mxCell id="cROohg-AydkKlxz-89z_-147" value="Conv+ReLU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="414" y="265" width="166" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cROohg-AydkKlxz-89z_-148" value="NOlinear" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="cROohg-AydkKlxz-89z_-148" value="1*1Conv" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="414" y="320" width="166" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cROohg-AydkKlxz-89z_-243" value="" style="group" vertex="1" connectable="0" parent="1">
