@@ -185,13 +185,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cROohg-AydkKlxz-89z_-140" value="X AvgPool" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fontFamily=Times New Roman;" vertex="1" parent="cROohg-AydkKlxz-89z_-304">
-          <mxGeometry x="150" y="200" width="90" height="40" as="geometry" />
+          <mxGeometry x="150" y="200" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cROohg-AydkKlxz-89z_-144" value="Conv" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;" vertex="1" parent="cROohg-AydkKlxz-89z_-304">
           <mxGeometry x="150" y="360" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cROohg-AydkKlxz-89z_-145" value="Conv" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;" vertex="1" parent="cROohg-AydkKlxz-89z_-304">
-          <mxGeometry x="270" y="360" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cROohg-AydkKlxz-89z_-288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="cROohg-AydkKlxz-89z_-304" source="cROohg-AydkKlxz-89z_-147" target="cROohg-AydkKlxz-89z_-148">
           <mxGeometry relative="1" as="geometry" />
@@ -382,16 +379,13 @@
             <mxPoint x="300" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cROohg-AydkKlxz-89z_-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.798;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="cROohg-AydkKlxz-89z_-304" target="cROohg-AydkKlxz-89z_-147">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="315" y="240" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cROohg-AydkKlxz-89z_-289" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.594;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="cROohg-AydkKlxz-89z_-304" source="cROohg-AydkKlxz-89z_-148" target="cROohg-AydkKlxz-89z_-144">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cROohg-AydkKlxz-89z_-290" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.417;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="cROohg-AydkKlxz-89z_-304" source="cROohg-AydkKlxz-89z_-148" target="cROohg-AydkKlxz-89z_-145">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="cROohg-AydkKlxz-89z_-290" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.417;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="cROohg-AydkKlxz-89z_-304" source="cROohg-AydkKlxz-89z_-148">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="307.53" y="359.52" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="cROohg-AydkKlxz-89z_-292" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="cROohg-AydkKlxz-89z_-304" source="cROohg-AydkKlxz-89z_-144" target="cROohg-AydkKlxz-89z_-245">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -399,9 +393,9 @@
             <mxPoint x="360" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cROohg-AydkKlxz-89z_-293" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="cROohg-AydkKlxz-89z_-304" source="cROohg-AydkKlxz-89z_-145" target="cROohg-AydkKlxz-89z_-245">
+        <mxCell id="cROohg-AydkKlxz-89z_-293" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="cROohg-AydkKlxz-89z_-304" target="cROohg-AydkKlxz-89z_-245">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="510" as="sourcePoint" />
+            <mxPoint x="315" y="400" as="sourcePoint" />
             <mxPoint x="360" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
