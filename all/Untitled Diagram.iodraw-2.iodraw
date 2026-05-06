@@ -408,7 +408,7 @@
           <mxGeometry y="230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cROohg-AydkKlxz-89z_-299" value="C*1*1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="cROohg-AydkKlxz-89z_-304">
-          <mxGeometry x="390" y="205" width="60" height="30" as="geometry" />
+          <mxGeometry x="380" y="205" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cROohg-AydkKlxz-89z_-300" value="C*H*W" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="cROohg-AydkKlxz-89z_-304">
           <mxGeometry x="170" y="520" width="60" height="30" as="geometry" />
