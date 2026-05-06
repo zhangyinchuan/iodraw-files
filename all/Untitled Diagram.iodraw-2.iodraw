@@ -633,8 +633,8 @@
         <mxCell id="cROohg-AydkKlxz-89z_-382" value="2*H*W" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="580" y="505" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cROohg-AydkKlxz-89z_-384" value="2*H*W" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="590" y="515" width="60" height="30" as="geometry" />
+        <mxCell id="cROohg-AydkKlxz-89z_-384" value="1*H*W" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="580" y="565" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
