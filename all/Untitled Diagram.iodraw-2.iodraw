@@ -627,7 +627,7 @@
         <mxCell id="cROohg-AydkKlxz-89z_-379" value="C/r*1*1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="580" y="260" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cROohg-AydkKlxz-89z_-381" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="cROohg-AydkKlxz-89z_-381" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; white-space: normal;&quot;&gt;Input&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="385" y="718" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
