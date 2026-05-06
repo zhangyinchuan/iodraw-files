@@ -630,11 +630,11 @@
         <mxCell id="cROohg-AydkKlxz-89z_-381" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; white-space: normal;&quot;&gt;Output&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="375" y="730" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cROohg-AydkKlxz-89z_-383" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cROohg-AydkKlxz-89z_-382" target="cROohg-AydkKlxz-89z_-366">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="cROohg-AydkKlxz-89z_-382" value="2*H*W" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="580" y="505" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cROohg-AydkKlxz-89z_-384" value="2*H*W" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="590" y="515" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
